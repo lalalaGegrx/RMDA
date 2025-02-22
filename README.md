@@ -10,4 +10,4 @@
 
 ### How to run
 
-1. Create the 
+1. Create the `.\Dataset` folder in the root directory and a Dataset folder in `.\Dataset`, such as `.\Dataset\DEAP`.
