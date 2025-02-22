@@ -2,7 +2,7 @@
 
 ## Introduction
 
-
+![Illustration of the proposed Riemannian Matrix Discriminant Analysis (RMDA) method. (A) The construction of EEG network connectivity from multi-channel EEG using covariance, coherence, and CPSD matrices. (B) The scheme of the RMDA method makes the two classes more easily separable in the lower-dimensional Riemannian manifold. (C) Flowchart of the complete RMDA method.](methods.png)
 
 ### Requirements
 
