@@ -10,6 +10,8 @@
 
 - MATLAB R2019a (or other versions)
 
+### Setup
+
 1. Create the `.\Dataset` folder in the root directory and a Dataset folder in `.\Dataset`, such as `.\Dataset\DEAP`. The DEAP datastet is available at http://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html.
 2. Run `.\Dataset\Generate_*.m` to create either covariance, coherence, or CPSD matrices.
 3. Run `.\main_LeaveOne*Out_*.m` to get the results of leave-one-trial-out and leave-one-subject-out emotion recognition.
